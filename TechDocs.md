@@ -1,14 +1,18 @@
 ##Fintech
+## Fintech
 Shaping Biz world - https://ocw.mit.edu/courses/sloan-school-of-management/15-s08-fintech-shaping-the-financial-world-spring-2020/
 
 Blockchain & Money - https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/
 
-##5G
+## 5G
 
-##Web3
+
+
+## Web3
+
 
 ## System Design
-Scalable web Architecture and Distributed systems - http://www.aosabook.org/en/distsys.html
+System DesignScalable web Architecture and Distributed systems - http://www.aosabook.org/en/distsys.html
 Building Software Systems at Google - https://www.youtube.com/watch?v=modXC5IWTJI
 https://www.hiredintech.com/courses/system-design
 https://www.youtube.com/watch?v=-W9F__D3oY4

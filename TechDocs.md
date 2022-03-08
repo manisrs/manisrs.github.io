@@ -4,7 +4,24 @@
 ## Fintech
 - Shaping Biz world - https://ocw.mit.edu/courses/sloan-school-of-management/15-s08-fintech-shaping-the-financial-world-spring-2020/
 - Blockchain & Money - https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/
+Ethereum Dapps - https://www.stateofthedapps.com
 
+
+# For those interested in books on blockchain technology and money, here are some I have found of interest: (From MIT OCW)
+
+ - 'Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money' Popper (2014) ISBN: 9780062362506.
+
+ - 'Debt—Updated and Expanded: The First 5,000 Years' Graeber (2014) ISBN: 9781612194196.
+
+ - 'The Book of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto' Champagne (2014) ISBN: 9780996061315.
+
+ - 'Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction' Narayanan, Bonneau, Felton, Miller & Goldfeder (2016) ISBN: 9780691171692.
+
+ - 'Mastering Bitcoin: Programming the Open Blockchain' Antonopoulos (2017) ISBN: 9781491954386.
+
+ - 'The Truth Machine: The Blockchain and the Future of Everything' Vigna & Casey (2018) ISBN: 9781250114570.
+
+ - 'Blockchain and the Law: The Rule of Code'De Filippi & Wright (2018) ISBN: 9780674976429.
 
 ## 5G
 

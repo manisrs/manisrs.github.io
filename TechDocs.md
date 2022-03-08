@@ -7,7 +7,7 @@
 Ethereum Dapps - https://www.stateofthedapps.com
 
 
-# For those interested in books on blockchain technology and money, here are some I have found of interest: (From MIT OCW)
+# Books on blockchain technology and money (From MIT OCW)
 
  - 'Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money' Popper (2014) ISBN: 9780062362506.
 
@@ -44,11 +44,3 @@ Ethereum Dapps - https://www.stateofthedapps.com
 - https://www.youtube.com/watch?v=9GDX-IyZ_C8 & 
 - https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k
 - https://www.youtube.com/watch?v=cQP8WApzIQQ
-
-
-
-
-
-
-
-
